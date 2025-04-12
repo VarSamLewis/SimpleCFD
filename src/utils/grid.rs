@@ -1,5 +1,6 @@
 ﻿use rand::Rng; // ✅ Brings the `.gen()` method into scope
 
+// ffsdg
 #[derive(Debug, Clone, Copy, PartialEq)]
 pub enum HealthState {
     Susceptible,
